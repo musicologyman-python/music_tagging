@@ -1,0 +1,165 @@
+data:
+- works:
+    Symphony No. 1 in D major:
+    - "\xA9mvi": 1
+      "\xA9mvn": Langsam. Schleppend
+    - "\xA9mvi": 2
+      "\xA9mvn": "Kr\xE4ftig bewegt"
+    - "\xA9mvi": 3
+      "\xA9mvn": Feierlich und gemessen, ohne zu schleppen
+    - "\xA9mvi": 4
+      "\xA9mvn": "St\xFCrmisch bewegt"
+    Symphony No. 10 in F-sharp minor:
+    - "\xA9mvi": 1
+      "\xA9mvn": Adagio
+    - "\xA9mvi": 2
+      "\xA9mvn": Scherzo
+    - "\xA9mvi": 3
+      "\xA9mvn": Purgatorio
+    - "\xA9mvi": 4
+      "\xA9mvn": Scherzo
+    - "\xA9mvi": 5
+      "\xA9mvn": Finale
+    Symphony No. 2 in C minor ("Resurrection"):
+    - order: 1
+      "\xA9mvi": 1
+      "\xA9mvn": Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck
+    - order: 2
+      "\xA9mvi": 2
+      "\xA9mvn": "Andante moderato. Sehr gem\xE4chlich"
+    - order: 3
+      "\xA9mvi": 3
+      "\xA9mvn": 'Scherzo: In ruhig fliessender Bewegung'
+    - order: 4
+      "\xA9mvi": 4
+      "\xA9mvn": "\"O R\xF6schen rot! Der Mensch liegt in gr\xF6\xDFter Not!\" (Sehr\
+        \ feierlich aber schlicht) \"Urlicht\""
+    - order: 5
+      "\xA9mvi": 5
+      "\xA9mvn": Tempo des Scherzos. Wild herausfahrend --
+    - order: 6
+      "\xA9mi": 5
+      "\xA9mvn": '"Aufersteh''n, ja aufersteh''n wirst du" (Langsam. Misterioso)'
+    Symphony No. 3 in D minor:
+    - "\xA9mvi": 1
+      "\xA9mvn": "Kr\xE4ftig. Entschieden"
+    - "\xA9mvi": 2
+      "\xA9mvn": "Tempo di Menuetto. Sehr m\xE4ssig"
+    - "\xA9mvi": 3
+      "\xA9mvn": Comodo. Scherzando. Ohne Hast
+    - "\xA9mvi": 4
+      "\xA9mvn": Sehr langsam. Misterioso. "O Mensch! Gib acht!"
+    - "\xA9mvi": 5
+      "\xA9mvn": Lustig im Tempo und keck im Ausdruck
+    - "\xA9mvi": 6
+      "\xA9mvn": Langsam. Ruhevoll. Empfunden
+    Symphony No. 4 in G major:
+    - "\xA9mvi": 1
+      "\xA9mvn": "Bed\xE4chtig. Nicht eilen"
+    - "\xA9mvi": 2
+      "\xA9mvn": "In gem\xE4chlicher Bewegung. Ohne Hast"
+    - "\xA9mvi": 3
+      "\xA9mvn": Ruhevoll
+    - "\xA9mvi": 4
+      "\xA9mvn": Sehr behaglich
+    Symphony No. 5 in C-sharp minor:
+    - "\xA9mvi": 1
+      "\xA9mvn": "Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\xF6\
+        tzlich schneller. Leidenschaftlich. Wild - Tempo I)"
+    - "\xA9mvi": 2
+      "\xA9mvn": "St\xFCrmisch bewegt. Mit gr\xF6\xDFter Vehemenz - Bedeutend langsamer\
+        \ - Tempo I subito"
+    - "\xA9mvi": 3
+      "\xA9mvn": "Scherzo (Kr\xE4ftig, nicht zu schnell)"
+    - "\xA9mvi": 4
+      "\xA9mvn": Adagietto (Sehr langsam)
+    - "\xA9mvi": 5
+      "\xA9mvn": Rondo-Finale (Allegro)
+    Symphony No. 6 in A minor:
+    - "\xA9mvi": 1
+      "\xA9mvn": Allegro energico, ma non troppo. Heftig aber Markig
+    - "\xA9mvi": 2
+      "\xA9mvn": Scherzo (Wuchtig)
+    - "\xA9mvi": 3
+      "\xA9mvn": Andante moderato
+    - "\xA9mvi": 4
+      "\xA9mvn": Finale (Allegro moderato)
+    Symphony No. 7 in E minor:
+    - "\xA9mvi": 1
+      "\xA9mvn": Langsam - Allegro
+    - "\xA9mvi": 2
+      "\xA9mvn": Nachtmusik (Allegro moderato)
+    - "\xA9mvi": 3
+      "\xA9mvn": Scherzo
+    - "\xA9mvi": 4
+      "\xA9mvn": Nachtmusik (Andante amoroso)
+    - "\xA9mvi": 5
+      "\xA9mvn": Rondo - Finale (Allegro ordinario - Allegro moderato ma energico)
+    Symphony No. 8 in E-flat major:
+    - order: 1
+      "\xA9nam": Part I. "Veni creator spiritus"
+    - order: 2
+      "\xA9nam": Part I. "Imple superna gratia"
+    - order: 3
+      "\xA9nam": Part I. "Infirma nostri corporis"
+    - order: 4
+      "\xA9nam": Part I. "Accende lumen sensibus"
+    - order: 5
+      "\xA9nam": Part I. "Veni, Creator...Da gaudiorum praemia"
+    - order: 6
+      "\xA9nam": Part I. "Gloria sit Patri Domino"
+    - order: 7
+      "\xA9nam": Part II. Poco adagio. "Waldung, sie schwankt heran"
+    - order: 8
+      "\xA9nam": Part II. "Ewiger Wonnebrand"
+    - order: 9
+      "\xA9nam": "Part II. \"Wie Felsenabgrund mir zu F\xFC\xDFen\""
+    - order: 10
+      "\xA9nam": Part II. "Gerettet ist das edle Glied"
+    - order: 11
+      "\xA9nam": Part II. "Uns bleibt ein Erdenrest"
+    - order: 12
+      "\xA9nam": "Part II. \"H\xF6chste Herrscherin der Welt\""
+    - order: 13
+      "\xA9nam": "Part II. \"Dir, der Unber\xFChrbaren\""
+    - order: 14
+      "\xA9nam": Part II. "Bei der Liebe, die den Fussen"
+    - order: 15
+      "\xA9nam": Part II. "Neige, neige, du Ohnegleiche"
+    - order: 16
+      "\xA9nam": Part II. "Komm! Komm!"
+    - order: 17
+      "\xA9nam": Part II. "Blicket auf zum Retterblick"
+    - order: 18
+      "\xA9nam": "Part II. \"Alles Verg\xE4ngliche\""
+    Symphony No. 9 in D major:
+    - "\xA9mvi": 1
+      "\xA9mvn": Andante comodo
+    - "\xA9mvi": 2
+      "\xA9mvn": "Im Tempo eines gem\xE4chlichen L\xE4ndlers. Etwas t\xE4ppisch und\
+        \ sehr derb"
+    - "\xA9mvi": 3
+      "\xA9mvn": 'Rondo-Burleske: Allegro assai. Sehr trotzig'
+    - "\xA9mvi": 4
+      "\xA9mvn": "Adagio. Sehr langsam und noch zur\xFCckhaltend"
+  "\xA9gen": Symphony
+  "\xA9wrt": Mahler, Gustav
+metadata:
+  tag_mapping_human_to_machine:
+    album: "\xA9alb"
+    composer: "\xA9wrt"
+    genre: "\xA9gen"
+    movement: "\xA9mvn"
+    movement_number: "\xA9mvi"
+    part_of_gapless_album: pgap
+    show_work_movement: shwm
+    track_title: "\xA9nam"
+  tag_mapping_machine_to_human:
+    pgap: part_of_gapless_album
+    shwm: show_work_movement
+    "\xA9alb": album
+    "\xA9gen": genre
+    "\xA9mvi": movement_number
+    "\xA9mvn": movement
+    "\xA9nam": track_title
+    "\xA9wrt": composer

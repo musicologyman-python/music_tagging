@@ -1,0 +1,27 @@
+import enum
+
+class M4ATags(enum.StrEnum):
+
+  ALBUM = "©alb"
+  ALBUM_ARTIST = "aART"
+  ALBUM_COVER = "covr"
+  ARTIST = "©ART"
+  CDDB_1 = "----:com.apple.iTunes:iTunes_CDDB_1"
+  CDDB_TRACK_NUMBER = "----:com.apple.iTunes:iTunes_CDDB_TrackNumber"
+  COMPILATION = "cpil"
+  COMPOSER = "©wrt"
+  CONDUCTOR = "----:com.apple.iTunes:CONDUCTOR"
+  DATE = "©day"
+  DISC_NUMBER = "disk"
+  ENCODED_BY = "©too"
+  ENCODING_PARAMETERS = "----:com.apple.iTunes:Encoding Params"
+  GENRE = "©gen"
+  ITUNES_NORMALIZATION = "----:com.apple.iTunes:iTunNORM"
+  MOVEMENT = "©mvn"
+  MOVEMENT_COUNT = "©mvc"
+  MOVEMENT_NUMBER = "©mvi"
+  PART_OF_GAPLESS_ALBUM = "pgap"
+  SHOW_WORK_MOVEMENT = "shwm"
+  TITLE = "©nam"
+  TRACK_NUMBER = "trkn"
+  WORK = "©wrk"

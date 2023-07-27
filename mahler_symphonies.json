@@ -1,0 +1,302 @@
+{
+  "metadata": {
+    "tag_mapping_machine_to_human": {
+      "\u00a9alb": "album",
+      "\u00a9gen": "genre",
+      "\u00a9mvi": "movement_number",
+      "\u00a9mvn": "movement",
+      "\u00a9nam": "track_title",
+      "\u00a9wrt": "composer",
+      "pgap": "part_of_gapless_album",
+      "shwm": "show_work_movement"
+    },
+    "tag_mapping_human_to_machine": {
+      "album": "\u00a9alb",
+      "composer": "\u00a9wrt",
+      "genre": "\u00a9gen",
+      "movement": "\u00a9mvn",
+      "movement_number": "\u00a9mvi",
+      "part_of_gapless_album": "pgap",
+      "show_work_movement": "shwm",
+      "track_title": "\u00a9nam"
+    }
+  },
+  "data": [
+    {
+      "\u00a9wrt": "Mahler, Gustav",
+      "\u00a9gen": "Symphony",
+      "works": {
+        "Symphony No. 1 in D major": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Langsam. Schleppend"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Kr\u00e4ftig bewegt"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Feierlich und gemessen, ohne zu schleppen"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "St\u00fcrmisch bewegt"
+          }
+        ],
+        "Symphony No. 2 in C minor (\"Resurrection\")": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Allegro maestoso. Mit durchaus ernstem und feierlichem Ausdruck",
+            "order": 1
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Andante moderato. Sehr gem\u00e4chlich",
+            "order": 2
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Scherzo: In ruhig fliessender Bewegung",
+            "order": 3
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "\"O R\u00f6schen rot! Der Mensch liegt in gr\u00f6\u00dfter Not!\" (Sehr feierlich aber schlicht) \"Urlicht\"",
+            "order": 4
+          },
+          {
+            "\u00a9mvi": 5,
+            "\u00a9mvn": "Tempo des Scherzos. Wild herausfahrend --",
+            "order": 5
+          },
+          {
+            "\u00a9mi": 5,
+            "\u00a9mvn": "\"Aufersteh'n, ja aufersteh'n wirst du\" (Langsam. Misterioso)",
+            "order": 6
+          }
+        ],
+        "Symphony No. 3 in D minor": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Kr\u00e4ftig. Entschieden"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Tempo di Menuetto. Sehr m\u00e4ssig"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Comodo. Scherzando. Ohne Hast"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Sehr langsam. Misterioso. \"O Mensch! Gib acht!\""
+          },
+          {
+            "\u00a9mvi": 5,
+            "\u00a9mvn": "Lustig im Tempo und keck im Ausdruck"
+          },
+          {
+            "\u00a9mvi": 6,
+            "\u00a9mvn": "Langsam. Ruhevoll. Empfunden"
+          }
+        ],
+        "Symphony No. 4 in G major": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Bed\u00e4chtig. Nicht eilen"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "In gem\u00e4chlicher Bewegung. Ohne Hast"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Ruhevoll"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Sehr behaglich"
+          }
+        ],
+        "Symphony No. 5 in C-sharp minor": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Trauermarsch (In gemessenem Schritt. Streng. Wie ein Kondukt - Pl\u00f6tzlich schneller. Leidenschaftlich. Wild - Tempo I)"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "St\u00fcrmisch bewegt. Mit gr\u00f6\u00dfter Vehemenz - Bedeutend langsamer - Tempo I subito"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Scherzo (Kr\u00e4ftig, nicht zu schnell)"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Adagietto (Sehr langsam)"
+          },
+          {
+            "\u00a9mvi": 5,
+            "\u00a9mvn": "Rondo-Finale (Allegro)"
+          }
+        ],
+        "Symphony No. 6 in A minor": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Allegro energico, ma non troppo. Heftig aber Markig"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Scherzo (Wuchtig)"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Andante moderato"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Finale (Allegro moderato)"
+          }
+        ],
+        "Symphony No. 7 in E minor": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Langsam - Allegro"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Nachtmusik (Allegro moderato)"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Scherzo"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Nachtmusik (Andante amoroso)"
+          },
+          {
+            "\u00a9mvi": 5,
+            "\u00a9mvn": "Rondo - Finale (Allegro ordinario - Allegro moderato ma energico)"
+          }
+        ],
+        "Symphony No. 8 in E-flat major": [
+          {
+            "order": 1,
+            "\u00a9nam": "Part I. \"Veni creator spiritus\""
+          },
+          {
+            "order": 2,
+            "\u00a9nam": "Part I. \"Imple superna gratia\""
+          },
+          {
+            "order": 3,
+            "\u00a9nam": "Part I. \"Infirma nostri corporis\""
+          },
+          {
+            "order": 4,
+            "\u00a9nam": "Part I. \"Accende lumen sensibus\""
+          },
+          {
+            "order": 5,
+            "\u00a9nam": "Part I. \"Veni, Creator...Da gaudiorum praemia\""
+          },
+          {
+            "order": 6,
+            "\u00a9nam": "Part I. \"Gloria sit Patri Domino\""
+          },
+          {
+            "order": 7,
+            "\u00a9nam": "Part II. Poco adagio. \"Waldung, sie schwankt heran\""
+          },
+          {
+            "order": 8,
+            "\u00a9nam": "Part II. \"Ewiger Wonnebrand\""
+          },
+          {
+            "order": 9,
+            "\u00a9nam": "Part II. \"Wie Felsenabgrund mir zu F\u00fc\u00dfen\""
+          },
+          {
+            "order": 10,
+            "\u00a9nam": "Part II. \"Gerettet ist das edle Glied\""
+          },
+          {
+            "order": 11,
+            "\u00a9nam": "Part II. \"Uns bleibt ein Erdenrest\""
+          },
+          {
+            "order": 12,
+            "\u00a9nam": "Part II. \"H\u00f6chste Herrscherin der Welt\""
+          },
+          {
+            "order": 13,
+            "\u00a9nam": "Part II. \"Dir, der Unber\u00fchrbaren\""
+          },
+          {
+            "order": 14,
+            "\u00a9nam": "Part II. \"Bei der Liebe, die den Fussen\""
+          },
+          {
+            "order": 15,
+            "\u00a9nam": "Part II. \"Neige, neige, du Ohnegleiche\""
+          },
+          {
+            "order": 16,
+            "\u00a9nam": "Part II. \"Komm! Komm!\""
+          },
+          {
+            "order": 17,
+            "\u00a9nam": "Part II. \"Blicket auf zum Retterblick\""
+          },
+          {
+            "order": 18,
+            "\u00a9nam": "Part II. \"Alles Verg\u00e4ngliche\""
+          }
+        ],
+        "Symphony No. 9 in D major": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Andante comodo"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Im Tempo eines gem\u00e4chlichen L\u00e4ndlers. Etwas t\u00e4ppisch und sehr derb"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Rondo-Burleske: Allegro assai. Sehr trotzig"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Adagio. Sehr langsam und noch zur\u00fcckhaltend"
+          }
+        ],
+        "Symphony No. 10 in F-sharp minor": [
+          {
+            "\u00a9mvi": 1,
+            "\u00a9mvn": "Adagio"
+          },
+          {
+            "\u00a9mvi": 2,
+            "\u00a9mvn": "Scherzo"
+          },
+          {
+            "\u00a9mvi": 3,
+            "\u00a9mvn": "Purgatorio"
+          },
+          {
+            "\u00a9mvi": 4,
+            "\u00a9mvn": "Scherzo"
+          },
+          {
+            "\u00a9mvi": 5,
+            "\u00a9mvn": "Finale"
+          }
+        ]
+      }
+    }
+  ]
+}
